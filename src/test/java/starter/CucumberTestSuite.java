@@ -9,6 +9,7 @@ import org.junit.runner.RunWith;
         plugin = {"pretty"},
         features = "src/test/resources/features",
         //tags = "@login",
-        tags ="@cocoadslogin"
+        //tags ="@cocoadslogin",
+        tags="@selleroffice-signup"
 )
 public class CucumberTestSuite {}
