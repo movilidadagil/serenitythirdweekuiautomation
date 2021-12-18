@@ -1,4 +1,4 @@
-package starter.navigation;
+package starter.wiki.search.navigation;
 
 import net.serenitybdd.screenplay.Performable;
 import net.serenitybdd.screenplay.Task;

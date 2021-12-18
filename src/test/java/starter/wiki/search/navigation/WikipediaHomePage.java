@@ -1,4 +1,4 @@
-package starter.navigation;
+package starter.wiki.search.navigation;
 
 import net.serenitybdd.core.pages.PageObject;
 import net.thucydides.core.annotations.DefaultUrl;
